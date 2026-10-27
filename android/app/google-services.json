@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496401929970",
+    "project_id": "sowmya-flutter-app",
+    "storage_bucket": "sowmya-flutter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496401929970:android:1ab25b449782675b10626b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdVGjMcC249QFTjNm6agRoM5HjblIRiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
